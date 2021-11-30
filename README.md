@@ -1,4 +1,4 @@
-1<div align="center">2
+1<div align="center">3
   <img src="resources/mmseg-logo.png" width="600"/>
 </div>
 <br />
